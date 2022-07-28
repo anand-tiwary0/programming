@@ -1,2 +1,3 @@
 this repo is all about my programming journey and learning.
+for now i am trying  to leaen java dsa and a bit of webdevelopment and c language
      happy learning!!!
